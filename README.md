@@ -10,29 +10,30 @@
 
 ### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-D8B4F8?style=for-the-badge\&logo=typescript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-E9D5FF?style=for-the-badge\&logo=php\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-C4B5FD?style=for-the-badge\&logo=python\&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-FBCFE8?style=for-the-badge\&logo=kotlin\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-F9A8D4?style=for-the-badge\&logo=mysql\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge\&logo=javascript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-8B5CF6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-A78BFA?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge\&logo=python\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-F472B6?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-DB2777?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
 
-![Angular](https://img.shields.io/badge/Angular-FDA4AF?style=for-the-badge\&logo=angular\&logoColor=black)
-![NodeJS](https://img.shields.io/badge/NodeJS-BBF7D0?style=for-the-badge\&logo=node.js\&logoColor=black)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-E9D5FF?style=for-the-badge\&logo=express\&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FECACA?style=for-the-badge\&logo=laravel\&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-BAE6FD?style=for-the-badge\&logo=tailwindcss\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-DDD6FE?style=for-the-badge\&logo=bootstrap\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FECACA?style=for-the-badge\&logo=git\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FDE68A?style=for-the-badge\&logo=postman\&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-F43F5E?style=for-the-badge\&logo=angular\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-22C55E?style=for-the-badge\&logo=node.js\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-9333EA?style=for-the-badge\&logo=express\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E11D48?style=for-the-badge\&logo=laravel\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7C3AED?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F43F5E?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F97316?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-FBCFE8?style=for-the-badge\&logo=mysql\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C7D2FE?style=for-the-badge\&logo=postgresql\&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-E9D5FF?style=for-the-badge\&logo=sqlite\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-EC4899?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6366F1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-A855F7?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
 
 ## 🌐 Connect
 
