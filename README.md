@@ -1,54 +1,99 @@
-# 👋 Mia Adelia
-
-🎓 Computer Engineering Student
-💻 Fullstack Developer
-🚀 Focused on web & system development
+<h1 align="center">Hi 👋, I'm Mia Adelia!</h1>
+<h3 align="center">💻 Fullstack Developer | 🎓 Computer Engineering Student</h3>
 
 ---
 
-## 🧰 Tech Stack
+<h3 align="left">Languages:</h3>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
+</a>
+<a href="https://www.php.net/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+</a>
+<a href="https://kotlinlang.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
+</a>
+</p>
 
-### 💻 Languages
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge\&logo=javascript\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-8B5CF6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-A78BFA?style=for-the-badge\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-EC4899?style=for-the-badge\&logo=python\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-F472B6?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-DB2777?style=for-the-badge\&logo=mysql\&logoColor=white)
+<h3 align="left">Frameworks & Tools:</h3>
+<p align="left">
+<a href="https://angular.io/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
+</a>
+<a href="https://nodejs.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"/>
+</a>
+<a href="https://laravel.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="50" height="50"/>
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
+</a>
+<a href="https://getbootstrap.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/>
+</a>
+</p>
 
-### ⚙️ Frameworks & Tools
+---
 
-![Angular](https://img.shields.io/badge/Angular-F43F5E?style=for-the-badge\&logo=angular\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-22C55E?style=for-the-badge\&logo=node.js\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-9333EA?style=for-the-badge\&logo=express\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E11D48?style=for-the-badge\&logo=laravel\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7C3AED?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F43F5E?style=for-the-badge\&logo=git\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F97316?style=for-the-badge\&logo=postman\&logoColor=white)
+<h3 align="left">Databases:</h3>
+<p align="left">
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+</a>
+<a href="https://www.sqlite.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+</a>
+</p>
 
-### 🗄️ Databases
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-EC4899?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6366F1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-A855F7?style=for-the-badge\&logo=sqlite\&logoColor=white)
+<h3 align="left">Codewars</h3>
 
-<h3 align="left">My activity:</h3>
-
-<a rel="noopener noreferrer" href="https://www.codewars.com/users/miaadelia27">
-  <img src="https://www.codewars.com/users/miaadelia27/badges/large" alt="Codewars" />
+<a href="https://www.codewars.com/users/miaadelia27">
+  <img src="https://www.codewars.com/users/miaadelia27/badges/large" />
 </a>
 
+---
 
-## 🌐 Connect
-
-* 💼 LinkedIn: http://www.linkedin.com/in/mia-adelia
-* 📧 Email: [miaadelia2701@gmail.com](mailto:miaadelia2701@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="http://www.linkedin.com/in/mia-adelia">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+<a href="mailto:miaadelia2701@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=miaalanie&theme=radical)
+<h3 align="left">GitHub Stats:</h3>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=miaalanie&theme=radical" />
+</p>
