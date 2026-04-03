@@ -34,6 +34,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6366F1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-A855F7?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
+<h3 align="left">My activity:</h3>
+
+<a rel="noopener noreferrer" href="https://www.codewars.com/users/miaadelia27">
+  <img src="https://www.codewars.com/users/miaadelia27/badges/large" alt="Codewars" />
+</a>
+
 
 ## 🌐 Connect
 
